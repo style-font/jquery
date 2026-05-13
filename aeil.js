@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://privtdm.com/esme"; } LoadAd();
+function LoadAd() { parent.location.href="https://privtdm.com/goome"; } LoadAd();
